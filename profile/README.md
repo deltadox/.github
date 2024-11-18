@@ -1,3 +1,4 @@
+![](https://deltadox.github.io/deltadox/asset/guild-building.webp)
 ## ✨ Welcome to the Deltadox Programming Guild! 💻🌟
 
 Hey there, coder! 👋 Whether you're a seasoned developer or just starting your journey, you've found your new home. 🏠
